@@ -61,6 +61,11 @@ nav {
     color: #000;
 }
 
+.global-menu a.active {
+    background: #fff;
+    color: #000;
+}
+
 main {
     padding: 40px 20px;
     max-width: 1000px;
