@@ -90,6 +90,14 @@ main {
     color: #ccc;
 }
 
+.suite-img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
 .status {
     background: #004400;
     border: 1px solid #00aa00;
